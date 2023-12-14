@@ -5,8 +5,8 @@ Esse é um dos meus primeiros projetos, e apesar de ser simples tem uma grande i
 
 <div style="width:100vw;display:flex;justify-content:center; gap:10px;flex-wrap:wrap;">
   
-<img style="width:300px;"  src="https://github.com/GabryelSilvah/7DaysOfCode/assets/139282381/de2ce43f-c2bd-4bc1-b07f-999cd004c79d">
+<img style="width:300px;"  src="https://github.com/GabryelSilvah/7DaysOfCode/assets/139282381/8eaaed86-a10a-4781-81ea-e0e5769af8f7">
 
-  <img style="width:300px" src="https://github.com/GabryelSilvah/7DaysOfCode/assets/139282381/b66deea8-794d-4480-9846-6efdaefacb8f">
+  <img style="width:300px" src="https://github.com/GabryelSilvah/7DaysOfCode/assets/139282381/f73e8afd-bfa1-49c1-afbd-3f81b5121182">
   
 </div>
